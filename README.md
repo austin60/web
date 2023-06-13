@@ -23,4 +23,4 @@ This is a python django project meant for studios to post and react with clients
 * HTML
 * CSS  
 
-### [project location]([https://github.com/austin60/airdnd](https://github.com/austin60/django-gallery))
+### [project location](https://github.com/austin60/airdnd](https://github.com/austin60/django-gallery)
