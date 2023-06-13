@@ -7,7 +7,7 @@ This is a fullstack project meant to serve local restaurants, meant to enable th
 * React
 * Nodejs libraries (MERN stack)
 
-### [project location]([https://github.com/austin60/airdnd](https://github.com/austin60/remote-cafe))
+### [project location](https://github.com/austin60/airdnd](https://github.com/austin60/remote-cafe)
 
 
 ## [Airbnb clone](https://sprightly-cannoli-5bf619.netlify.app/)
