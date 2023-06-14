@@ -26,7 +26,6 @@ This is a python django project meant for studios to post and react with clients
 
 ### Skills applied
 * Python Django
-* HTML
-* CSS  
+* Postgresql
 
 [project location](https://github.com/austin60/airdnd](https://github.com/austin60/django-gallery)
