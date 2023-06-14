@@ -7,13 +7,13 @@ This is a fullstack project meant to serve local restaurants, meant to enable th
 * React
 * Nodejs libraries (MERN stack)
 
-[project location]: (https://github.com/austin60/airdnd](https://github.com/austin60/remote-cafe)
+[project location]:(https://github.com/austin60/airdnd](https://github.com/austin60/remote-cafe)
 
 
 ## [Airbnb clone](https://sprightly-cannoli-5bf619.netlify.app/)
 A project with the aim of cloning popupular airbnb website. It is implimented using the MongoDb, Express, React, Nodejs stack
 
-[project location]: (https://github.com/austin60/airdnd)
+[project location]:(https://github.com/austin60/airdnd)
 
 ## Galllery
 This is a python django project meant for studios to post and react with clients and potential clients
