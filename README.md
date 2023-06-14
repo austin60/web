@@ -13,6 +13,8 @@ This is a fullstack project meant to serve local restaurants, meant to enable th
 
 
 ## [Airbnb clone](https://sprightly-cannoli-5bf619.netlify.app/)
+<img width="960" alt="air" src="https://github.com/austin60/remote-cafe/assets/96995974/4171cd83-d80c-4f16-a2e1-4d8d461113b7">
+
 A project with the aim of cloning popupular airbnb website. Includes host and site registration.
 
 ### Skills applied
